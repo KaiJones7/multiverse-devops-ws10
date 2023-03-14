@@ -1,5 +1,5 @@
 def hello():
-    return 'hello world!'
+    return 'Hello World!'
 
 def concat(a, b):
     return f'{a}-{b}'
